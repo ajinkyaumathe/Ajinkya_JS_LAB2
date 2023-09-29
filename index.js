@@ -78,7 +78,7 @@ function handleClickOnBtn(id,choice){
     }
 }
 function showScores(){
-    let result = '<h1>Result</h1><h2 id="score">Your Scores: '+quiz.score+'.And Mark percentage is: '+[(quiz.score/questions.length)*100] + '%</h2>'
+    let result = '<h1>Result</h1><h2 id="score">Your Scores: '+quiz.score+'. And Mark percentage is: '+[(quiz.score/questions.length)*100] + '%</h2>'
     let quizElem = document.getElementById("quiz")
     quizElem.innerHTML = result
 }
