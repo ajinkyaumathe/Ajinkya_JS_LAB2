@@ -1,4 +1,6 @@
 # Ajinkya_JS_LAB2
+https://github.com/ajinkyaumathe/Ajinkya_JS_LAB2/assets/122618978/5b6391b8-da08-4b72-9020-0a1bca5b376c
+
 Problem Statement
 You are part of an IT department who is involved in creating a client based “Quiz “ tool.
 As part of which, you are asked to
@@ -27,4 +29,3 @@ Implement prototypes
 Usage of DOM methods like getElementById
 Bind an event of a control to a JS function
 Implement Mathematical functions using Math class & String functions
-https://github.com/ajinkyaumathe/Ajinkya_JS_LAB2/assets/122618978/5b6391b8-da08-4b72-9020-0a1bca5b376c
